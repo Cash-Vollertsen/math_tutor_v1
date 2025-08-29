@@ -5,7 +5,8 @@
     Date..........:9/5/25
     Description...:This will be the first iteration of our simple silly math tutor. It will be a very simple
                    version of a math tutor starting off but eventually growing into something that is very complex and
-                   something that we can be proud of.
+                   something that we can be proud of. hello this is me from the other sided
+                   
     **********************************************/
 
 #include <iostream> // inlcude required for cin and cout
