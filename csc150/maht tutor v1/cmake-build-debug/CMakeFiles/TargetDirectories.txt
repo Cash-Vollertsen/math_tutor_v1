@@ -1,0 +1,3 @@
+C:/Users/cavoll02/OneDrive - Wayne State College/cash-vollertsen/csc150/maht tutor v1/cmake-build-debug/CMakeFiles/maht_tutor_v1.dir
+C:/Users/cavoll02/OneDrive - Wayne State College/cash-vollertsen/csc150/maht tutor v1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cavoll02/OneDrive - Wayne State College/cash-vollertsen/csc150/maht tutor v1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
