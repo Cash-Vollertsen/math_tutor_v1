@@ -10,6 +10,7 @@
     **********************************************/
 
 #include <iostream>
+#include <string>
 using namespace std;
 int main() {
 
@@ -18,12 +19,22 @@ int main() {
     cout << "************************************************************************************" << endl;
 
     cout << "Fun Math Facts" << endl;
-    cout << "   -Math wasn't created at any one time but devoloped over thousands of years." << endl;
+    cout << "   -Math wasn't created at any one time but developed over thousands of years." << endl;
     cout << "   -""Forty"" is the only number that is spelt with letters arranged in alphabetical order." << endl;
     cout << "   -Every odd number has an ""e"" in it." << endl;
 
+    string name;
+
     cout << "Hey this is your Simple Silly Math Tutor, What's your name." << endl;
-    cout <<
+    getline(cin, name );
+    cout << "Hello " << name << ", welcome to your math tutor." << endl;
+    cout << "Let's begin" << endl << endl;
+
+    int useranswer;
+
+    cout << "What is 1 + 2 = ?" << endl;
+    cin >> useranswer;
+    cout << endl << "That's it for this version. Thanks for playing!";
 
     return 0;
 }
